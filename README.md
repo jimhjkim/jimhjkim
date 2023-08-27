@@ -9,8 +9,8 @@
 
 <h3>🌱 I’m currently learning ...</h3>
 <div>
-  <img height='25' src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img height='25' src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+  <img height='25' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img height='25' src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
 <h3>🥸 I have used ...</h3>
