@@ -9,8 +9,7 @@
 
 <h3>🌱 I’m currently learning ...</h3>
 <div>
-  <img height='25' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img height='25' src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  DevOps
 </div>
 
 <h3>🥸 I have used ...</h3>
@@ -26,9 +25,6 @@
   <img height='25' src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=Mocha&logoColor=white"/>
   <img height='25' src="https://img.shields.io/badge/Chai-A30701?style=flat&logo=Chai&logoColor=white"/>
   <img height='25' src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=Cypress&logoColor=white"/>
-
-
-  
   
   <h4>Backend</h4>
   <img height='25' src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -48,7 +44,6 @@
   <img height='25' src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img height='25' src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
-  
   
 </div>
 <!-- 
