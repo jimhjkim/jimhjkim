@@ -9,7 +9,7 @@
 
 <h3>🌱 I’m currently learning ...</h3>
 <div>
-  DevOps
+  Java
 </div>
 
 <h3>🥸 I have used ...</h3>
